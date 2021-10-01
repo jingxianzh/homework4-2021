@@ -27,6 +27,7 @@ caption{
 body{
   color: #000000;
   font-size: 16px;
+  font-family: 'Andika', sans-serif;
   margin: 1.2em;
   background-size: cover ;
   /*Req 1*/
@@ -39,7 +40,7 @@ body{
 h1{
   color: #c12258;
   font-size: 32px;
-  line-height: double;
+  line-height: 2;
   text-align: center;
   /*Req 2*/
 }
